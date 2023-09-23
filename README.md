@@ -1,7 +1,5 @@
 #EDA ON WORLD ARMED FORCES
 
-Creating a README file for an exploratory data analysis (EDA) on world armed forces is essential to provide clear documentation and context for your project. Below is a template you can use as a starting point:
-
 Exploratory Data Analysis (EDA) on World Armed Forces
 Overview
 This project conducts an EDA on data related to world armed forces. The analysis aims to gain insights into the distribution, composition, and capabilities of armed forces across different countries. The dataset used for this analysis is [provide dataset source and description].
